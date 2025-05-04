@@ -5,11 +5,11 @@ tittle : "GIT and GitHub"
 
 Penjelasan tentang GIT dan GitHub.
 
-### Apa Itu GIT 
+### A. Apa Itu GIT 
 
 Git adalah Version Control System (VCS), yaitu sistem untuk mencatat setiap perubahan yang terjadi pada file proyek (biasanya file kode/program) dari waktu ke waktu. Diciptakan oleh Linus Torvalds pada tahun 2005 untuk mengelola kernel Linux.
 
-### Fungsi GIT
+### B. Fungsi GIT
 
 * Melacak riwayat perubahan file proyek
 * Mengelola versi : Kembali ke versi sebelumnya jika terjadi kesalahan
@@ -17,9 +17,9 @@ Git adalah Version Control System (VCS), yaitu sistem untuk mencatat setiap peru
 * Bekerja secara offline : Tidak butuh koneksi internet untuk versi lokal
 * Membuat cabang (branch) pengembangan fitur tanpa mengganggu kode utama
 
-### Istilah Penting GIT
+### C. Istilah Penting GIT
 
-| Istilah        | Fungsi                                                |
+>| Istilah        | Fungsi                                                |
 | :-------------- | :----------------------------------------------------- |
 | `git init`     | Membuat repository baru                               |
 | `git add`      | Menambahkan file ke staging area                      |
@@ -31,7 +31,7 @@ Git adalah Version Control System (VCS), yaitu sistem untuk mencatat setiap peru
 | `git checkout`.......... | Berpindah antar cabang                                |
 | `git merge`    | Menggabungkan cabang                                  |
 
-### Apa Itu GitHub
+### D. Apa Itu GitHub
 
 GitHub adalah platform berbasis web, GitHub dibeli oleh Microsoft pada tahun 2018 dan saat ini merupakan platform kolaborasi pengembang terbesar di dunia. Kegunaan nya ialah untuk hosting repository Git secara online, agar bisa :
 - Disimpan di cloud
@@ -39,9 +39,9 @@ GitHub adalah platform berbasis web, GitHub dibeli oleh Microsoft pada tahun 201
 - Dikerjakan secara kolaboratif
 - Menampilkan halaman web (GitHub Pages)
 
-### Fitur GitHub
+### E. Fitur GitHub
 
-| Fitur            | Penjelasan                                                |
+>| Fitur            | Penjelasan                                                |
 | :---------------- | :--------------------------------------------------------- |
 | *Repository*   | Tempat menyimpan semua file proyek                        |
 | *Clone*        | Menyalin repo dari GitHub ke lokal                        |
@@ -53,9 +53,9 @@ GitHub adalah platform berbasis web, GitHub dibeli oleh Microsoft pada tahun 201
 | *Actions*      | Otomatisasi workflow (CI/CD)                              |
 | *GitHub Pages*............ | Menampilkan web statis langsung dari repo GitHub          |
 
-### Perbedaan Git dan GitHub
+### F. Perbedaan Git dan GitHub
 
-| Git                              | GitHub                                     |
+>| Git                              | GitHub                                     |
 | :-------------------------------- | :------------------------------------------ |
 | Aplikasi lokal                   | Layanan berbasis web                       |
 | Menyimpan proyek secara lokal    | Menyimpan proyek secara online             |
@@ -63,7 +63,7 @@ GitHub adalah platform berbasis web, GitHub dibeli oleh Microsoft pada tahun 201
 | Wajib untuk kontrol versi        | Opsional untuk kolaborasi dan publikasi    |
 | Tidak butuh internet             | Butuh internet                             |
 
-### Manfaat Menguasai GIT dan GitHub Untuk Mahasiswa
+### G. Manfaat Menguasai GIT dan GitHub Untuk Mahasiswa
 
 + Menjadi standar kerja industri (semua programmer profesional menggunakan Git)
 + Mempermudah kolaborasi proyek kelompok

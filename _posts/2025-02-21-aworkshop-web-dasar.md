@@ -5,7 +5,7 @@ tittle : "Workshop Web Dasar"
 
 Penjelasan tentang Workshop Web Dasar.
 
-### Apa itu Workshop Web Dasar
+### A. Apa itu Workshop Web Dasar
 
 Workshop Web Dasar adalah kegiatan pelatihan atau praktikum yang dirancang untuk memperkenalkan dasar-dasar pembuatan website kepada peserta, biasanya pemula seperti mahasiswa, pelajar, atau siapa saja yang baru mulai belajar pengembangan web. Kegiatan
 pembelajaran berbasis praktik langsung (hands-on) yang mengajarkan peserta untuk :
@@ -15,7 +15,7 @@ pembelajaran berbasis praktik langsung (hands-on) yang mengajarkan peserta untuk
 - Menggunakan alat bantu seperti text editor, browser, dan (jika diarahkan lebih lanjut) framework seperti Jekyll atau alat version control seperti Git
 
 
-### Tujuan Workshop Web Dasar
+### B. Tujuan Workshop Web Dasar
 
 1. Memberikan pemahaman awal tentang cara kerja website
 2. Mengajarkan keterampilan teknis untuk membangun web statis
@@ -23,7 +23,7 @@ pembelajaran berbasis praktik langsung (hands-on) yang mengajarkan peserta untuk
 4. Melatih peserta membuat web sederhana dari nol
 5. Menumbuhkan logika dan kreativitas dalam desain dan pengkodean web
 
-### Yang Dipelajari dalam Workshop Web Dasar
+### C. Yang Dipelajari dalam Workshop Web Dasar
 
 1. HTML (HyperText Markup Language)
 Digunakan untuk membuat struktur halaman, seperti judul, paragraf, gambar, dan tautan.
@@ -42,7 +42,7 @@ Mengajarkan bagaimana menyusun file dan folder dengan rapi.
 - Browser (untuk menampilkan hasil web) 
 - Git, GitHub, atau framework seperti Jekyll 
 
-### Manfaat Workshop Web Dasar
+### D. Manfaat Workshop Web Dasar
 
 + Menjadi pondasi awal sebelum masuk ke web development tingkat lanjut
 + Membekali peserta dengan keterampilan digital praktis
