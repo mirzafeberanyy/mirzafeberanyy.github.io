@@ -1,6 +1,6 @@
 ---
 layout : post
-tittle : "HTML Link dan Lists"
+tittle : "HTML Link and Lists"
 ---
 
 Penjelasan tentang link dan lists pada HTML.
